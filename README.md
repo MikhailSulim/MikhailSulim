@@ -45,17 +45,7 @@
 
 
 
-<h2 align="center">Статистика</h2>
-
-<h2 align="center">Обучение</h2>
-
-<img src="https://www.codewars.com/users/Mikko_1984/badges/large">
-<img src="https://www.codewars.com/users/Mikko_1984/badges/micro">
-
-<a href="https://stepik.org/users/513268992?preview=true">Мой профиль на Stepik</a>
-
-
-
+<h2 align="center">Моя статистика</h2>
 
 
 
@@ -74,3 +64,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MikhailSulim&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MikhailSulim&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MikhailSulim&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MikhailSulim&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MikhailSulim&theme=solarized_dark)
+
+
+
+
+<img src="https://www.codewars.com/users/Mikko_1984/badges/large">
+
+![](https://komarev.com/ghpvc/?username=MikhailSulim)
