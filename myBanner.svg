@@ -38,6 +38,6 @@
                 </g>
                 
                         <text text-anchor="middle" alignment-baseline="middle" x="50%" y="30%" class="text" style="fill:#f7f5f5;" stroke="#none" stroke-width="1">Всем привет!</text>
-                <text text-anchor="middle" alignment-baseline="middle" x="70%" y="49%" class="desc" style="fill:#f7f5f5;">Я — Михаил, начинающий front-end разработчик.</text> 
-	<text text-anchor="middle" alignment-baseline="middle" x="75%" y="56%" class="desc" style="fill:#f7f5f5;">Добро пожаловать в мой репозиторий!</text> 
+                <text text-anchor="middle" alignment-baseline="middle" x="68%" y="49%" class="desc" style="fill:#f7f5f5;">Я — Михаил, начинающий front-end разработчик.</text> 
+	<text text-anchor="middle" alignment-baseline="middle" x="75%" y="58%" class="desc" style="fill:#f7f5f5;">Добро пожаловать в мой репозиторий!</text> 
             </svg>
