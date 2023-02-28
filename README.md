@@ -4,18 +4,18 @@
 <p>Я — начинающий front-end разработчик и в настоящее время прохожу обучение в Я.Практикуме.</p>
 
 <h2 align="center">Мои навыки</h2>
-<ul style="none">
- 
-  
- <img width="10%" src="./images/bem_logo.svg">
- 
-<img width="10%" src="./images/css_logo.svg">
-  
+
+ <div display="flex" justify-content: "space-between">
+  <img width="10%" src="./images/html_logo.svg">
+  <img width="10%" src="./images/css_logo.svg">
   <img width="10%" src="./images/js_logo.svg">
-  
+  <img width="10%" src="./images/bem_logo.svg">
+  <img width="10%" src="./images/react_logo.svg">
+  <img width="10%" src="./images/webpack_logo.svg">
+  <img width="10%" src="./images/ps_logo.svg">
+  <img width="10%" src="./images/figma_logo.svg">
+  </div>
 
-
-</svg>
 
 
 
