@@ -29,7 +29,7 @@
 
 <h2 align="center">Мои навыки</h2>
 
- <div >
+ <div align="center">
  <a href="https://ru.wikipedia.org/wiki/HTML"><img width="9%" src="./images/html_logo.svg"></a>
   <a href="https://ru.wikipedia.org/wiki/CSS"><img width="9%" src="./images/css_logo.svg"></a>
   <a href="https://ru.wikipedia.org/wiki/JavaScript"><img width="9%" src="./images/js_logo.svg"></a>
@@ -42,13 +42,7 @@
   <a href="https://ru.wikipedia.org/wiki/Git"><img width="9%" src="./images/git_logo.svg"></a>
   </div>
 
-
-
-
 <h2 align="center">Моя статистика</h2>
-
-
-
 
 <!--
 **MikhailSulim/MikhailSulim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -64,14 +58,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MikhailSulim&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MikhailSulim&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MikhailSulim&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MikhailSulim&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MikhailSulim&theme=solarized_dark)
 
-
-
-
 <img src="https://www.codewars.com/users/Mikko_1984/badges/large">
 
+ 
+ 
 ![](https://komarev.com/ghpvc/?username=MikhailSulim)
+</div>
