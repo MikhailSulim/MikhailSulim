@@ -5,8 +5,8 @@
 
 <h2 align="center">Мои навыки</h2>
 
- <div display="flex" justify-content: "space-between">
-  <img width="10%" src="./images/html_logo.svg">
+ <div style=" display: flex; align-items: space-between; justify-content: space-between; width: 100%; ">
+  <img style="width: 10%;" style="none" src="./images/html_logo.svg">
   <img width="10%" src="./images/css_logo.svg">
   <img width="10%" src="./images/js_logo.svg">
   <img width="10%" src="./images/bem_logo.svg">
