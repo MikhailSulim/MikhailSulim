@@ -9,7 +9,7 @@
   <a href="https://mikhailsulim.github.io/mesto/index.html">Итоговое решение</a>
  </li>
  <li>
-  <a href="https://github.com/MikhailSulim/russiantravel">Проект «Путешествие по России»</a> — типовой одностраничный сайт о путешествии по России <br>
+  <a href="https://github.com/MikhailSulim/russian-travel">Проект «Путешествие по России»</a> — типовой одностраничный сайт о путешествии по России <br>
   
  </li>
  <li>
