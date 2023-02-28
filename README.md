@@ -1,4 +1,9 @@
-### Hi there 👋
+<img src="./myBanner.svg">
+
+
+
+<img src="https://www.codewars.com/users/Mikko_1984/badges/large">
+
 
 <!--
 **MikhailSulim/MikhailSulim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
