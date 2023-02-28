@@ -1,12 +1,13 @@
 <img src="./images/myBanner.svg">
 
 <h2 align="center">О себе</h2>
-<p>Я — начинающий front-end разработчик и в настоящее время прохожу обучение в Я.Практикуме.</p>
+<p>Я — начинающий front-end разработчик. С сентября 2022 и по настоящее время прохожу обучение в Я.Практикуме на факультете <a href="https://practicum.yandex.ru/web/">Веб-разработки</a>. Под руководством наставников создаю веб-проекты,
+каждый из которых проходит проверку ревьюером. Все учебные проекты находтся в этом репозитарии и закреплены ниже.</p> 
 
 <h2 align="center">Мои навыки</h2>
 
- <div style=" display: flex; align-items: space-between; justify-content: space-between; width: 100%; ">
-  <img style="width: 10%;" style="none" src="./images/html_logo.svg">
+ <div >
+  <img width="10%" src="./images/html_logo.svg">
   <img width="10%" src="./images/css_logo.svg">
   <img width="10%" src="./images/js_logo.svg">
   <img width="10%" src="./images/bem_logo.svg">
