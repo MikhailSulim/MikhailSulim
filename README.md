@@ -60,9 +60,9 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MikhailSulim&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MikhailSulim&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MikhailSulim&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MikhailSulim&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MikhailSulim&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MikhailSulim&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MikhailSulim&theme=2077) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MikhailSulim&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MikhailSulim&theme=2077) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MikhailSulim&theme=2077)
 
 <img src="https://www.codewars.com/users/Mikko_1984/badges/large">
 
