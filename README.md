@@ -5,40 +5,41 @@
 каждый из которых проходит проверку ревьюером. Все учебные проекты находтся в данном репозитории. Вот некоторые из них:</p> 
 <ul>
  <li>
-  Проект «Mesto» — интерактивный сайт для размещения фотографий с их описанием Функционал: добавление/удаление карточек с фото и описанием, редактирование профиля пользователя, валидация введённых данных, взаимодействие с API. <br>
-  <a href="https://github.com/MikhailSulim/mesto">Репозиторий проекта</a><br>
+  <a href="https://github.com/MikhailSulim/mesto">Проект «Mesto»</a> — интерактивный сайт для размещения фотографий с их описанием Функционал: добавление/удаление карточек с фото и описанием, редактирование профиля пользователя, валидация введённых данных, взаимодействие с API. <br>
   <a href="https://mikhailsulim.github.io/mesto/index.html">Итоговое решение</a>
  </li>
- <li>Проект «Путешествие по России» — типовой одностраничный сайт о путешествии по России <br>
-  <a href="https://github.com/MikhailSulim/russiantravel">Репозиторий проекта</a>
+ <li>
+  <a href="https://github.com/MikhailSulim/russiantravel">Проект «Путешествие по России»</a> — типовой одностраничный сайт о путешествии по России <br>
+  
  </li>
- <li>Проект "Научиться учиться" — типовой одностраничный сайт об обучении<br>
-  <a href="https://github.com/MikhailSulim/how-to-learn">Репозиторий проекта</a>
+ <li>
+  <a href="https://github.com/MikhailSulim/how-to-learn">Проект "Научиться учиться"</a> — типовой одностраничный сайт об обучении<br>
+  
  </li>
 </ul>
 
 <h3>В настоящий момент я:</h3>
 <ul>
  <li>продолжаю обучение на Я.Практикуме и других платформах;</li>
- <li>изучаю JavaScript и React.js;</li>
+ <li>изучаю JavaScript ("Современный учебник JavaScript" И. Кантора);</li>
+ <li>изучаю React.js;</li>
  <li>работаю над своими пет-проектами;</li> 
- <li>стремлюсь к работе с настоящими проектами.</li>
- 
+ <li>стремлюсь к работе с настоящими боевыми проектами.</li> 
 </ul>
 
 <h2 align="center">Мои навыки</h2>
 
  <div >
-  <img width="10%" src="./images/html_logo.svg">
-  <img width="10%" src="./images/css_logo.svg">
-  <img width="10%" src="./images/js_logo.svg">
-  <img width="10%" src="./images/bem_logo.svg">
-  <img width="10%" src="./images/react_logo.svg">
-  <img width="10%" src="./images/webpack_logo.svg">
-  <img width="10%" src="./images/ps_logo.svg">
-  <img width="10%" src="./images/figma_logo.svg">
-  <img width="10%" src="./images/vscode_logo.svg">
- <img width="10%" src="./images/git_logo.svg">
+  <img width="9%" src="./images/html_logo.svg">
+  <img width="9%" src="./images/css_logo.svg">
+  <img width="9%" src="./images/js_logo.svg">
+  <img width="9%" src="./images/bem_logo.svg">
+  <img width="9%" src="./images/react_logo.svg">
+  <img width="9%" src="./images/webpack_logo.svg">
+  <img width="9%" src="./images/ps_logo.svg">
+  <img width="9%" src="./images/figma_logo.svg">
+  <img width="9%" src="./images/vscode_logo.svg">
+  <img width="9%" src="./images/git_logo.svg">
   </div>
 
 
