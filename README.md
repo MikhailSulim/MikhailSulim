@@ -6,22 +6,25 @@
 <ul>
  <li>
   Проект «Mesto» — интерактивный сайт для размещения фотографий с их описанием Функционал: добавление/удаление карточек с фото и описанием, редактирование профиля пользователя, валидация введённых данных, взаимодействие с API. <br>
-Технологии: Flexbox, Grid Layout, БЭМ, Git, GitHub Pages, JavaScript, Webpack, npm, API.<br>
   <a href="https://github.com/MikhailSulim/mesto">Репозиторий проекта</a><br>
   <a href="https://mikhailsulim.github.io/mesto/index.html">Итоговое решение</a>
  </li>
  <li>Проект «Путешествие по России» — типовой одностраничный сайт о путешествии по России <br>
-  Функционал: адаптивный дизайн, трансформация элементов страницы через CSS<br>
-  Технологии: Flexbox, Grid Layout, БЭМ, Nested BEM<br>
   <a href="https://github.com/MikhailSulim/russiantravel">Репозиторий проекта</a>
  </li>
  <li>Проект "Научиться учиться" — типовой одностраничный сайт об обучении<br>
-  Функционал: анимация CSS, встроенное в страницу видео<br>
-  Технологии: Flexbox, БЭМ, Nested BEM<br>
   <a href="https://github.com/MikhailSulim/how-to-learn">Репозиторий проекта</a>
  </li>
- </ul>
+</ul>
+
+<h3>В настоящий момент я:</h3>
+<ul>
+ <li>продолжаю обучение на Я.Практикуме и других платформах;</li>
+ <li>изучаю JavaScript и React.js;</li>
+ <li>работаю над своими пет-проектами;</li> 
+ <li>стремлюсь к работе с настоящими проектами.</li>
  
+</ul>
 
 <h2 align="center">Мои навыки</h2>
 
@@ -34,6 +37,8 @@
   <img width="10%" src="./images/webpack_logo.svg">
   <img width="10%" src="./images/ps_logo.svg">
   <img width="10%" src="./images/figma_logo.svg">
+  <img width="10%" src="./images/vscode_logo.svg">
+ <img width="10%" src="./images/git_logo.svg">
   </div>
 
 
