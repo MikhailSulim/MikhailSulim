@@ -3,6 +3,7 @@
 
 
 <img src="https://www.codewars.com/users/Mikko_1984/badges/large">
+<img src="https://www.codewars.com/users/Mikko_1984/badges/micro">
 
 
 <!--
