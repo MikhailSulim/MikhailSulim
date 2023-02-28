@@ -5,6 +5,7 @@
 <img src="https://www.codewars.com/users/Mikko_1984/badges/large">
 <img src="https://www.codewars.com/users/Mikko_1984/badges/micro">
 
+<img src="https://stepik.org/cert/1880610">
 
 <!--
 **MikhailSulim/MikhailSulim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
