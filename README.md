@@ -30,16 +30,16 @@
 <h2 align="center">Мои навыки</h2>
 
  <div >
-  <img width="9%" src="./images/html_logo.svg">
-  <img width="9%" src="./images/css_logo.svg">
-  <img width="9%" src="./images/js_logo.svg">
-  <img width="9%" src="./images/bem_logo.svg">
-  <img width="9%" src="./images/react_logo.svg">
-  <img width="9%" src="./images/webpack_logo.svg">
-  <img width="9%" src="./images/ps_logo.svg">
-  <img width="9%" src="./images/figma_logo.svg">
-  <img width="9%" src="./images/vscode_logo.svg">
-  <img width="9%" src="./images/git_logo.svg">
+ <a href="https://ru.wikipedia.org/wiki/HTML"><img width="9%" src="./images/html_logo.svg"></a>
+  <a href="https://ru.wikipedia.org/wiki/CSS"><img width="9%" src="./images/css_logo.svg"></a>
+  <a href="https://ru.wikipedia.org/wiki/JavaScript"><img width="9%" src="./images/js_logo.svg"></a>
+  <a href="https://ru.wikipedia.org/wiki/БЭМ"><img width="9%" src="./images/bem_logo.svg"></a>
+  <a href="https://ru.wikipedia.org/wiki/React"><img width="9%" src="./images/react_logo.svg"></a>
+  <a href="https://ru.wikipedia.org/wiki/Webpack"><img width="9%" src="./images/webpack_logo.svg"></a>
+  <a href="https://ru.wikipedia.org/wiki/Adobe_Photoshop"><img width="9%" src="./images/ps_logo.svg"></a>
+  <a href="https://ru.wikipedia.org/wiki/Figma"><img width="9%" src="./images/figma_logo.svg"></a>
+  <a href="https://ru.wikipedia.org/wiki/Visual_Studio_Code"><img width="9%" src="./images/vscode_logo.svg"></a>
+  <a href="https://ru.wikipedia.org/wiki/Git"><img width="9%" src="./images/git_logo.svg"></a>
   </div>
 
 
